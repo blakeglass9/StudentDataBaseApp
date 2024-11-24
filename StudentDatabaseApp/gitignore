@@ -1,0 +1,10 @@
+# Ignore Visual Studio temporary files, build results, and
+# folder-specific files created by the application
+.vs/
+*.user
+*.suo
+*.obj
+*.exe
+*.dll
+bin/
+obj/
